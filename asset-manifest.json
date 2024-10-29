@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Courses-Web-React/static/css/main.80b70cb7.css",
+    "main.js": "/Courses-Web-React/static/js/main.d224098e.js",
+    "static/media/rm373batch5-18a.jpg": "/Courses-Web-React/static/media/rm373batch5-18a.28f26d0042e4ba0edf24.jpg",
+    "static/media/digital-art-style-illustration-graphic-designer.jpg": "/Courses-Web-React/static/media/digital-art-style-illustration-graphic-designer.30893746fcf7199a855d.jpg",
+    "static/media/2571723.jpg": "/Courses-Web-React/static/media/2571723.db9a960670ed96f2c70b.jpg",
+    "static/media/3323619.jpg": "/Courses-Web-React/static/media/3323619.ce07a13d40e8c0ab6cff.jpg",
+    "static/media/—Pngtree—true and false symbols accept_4723246.png": "/Courses-Web-React/static/media/—Pngtree—true and false symbols accept_4723246.a2d7d5da4a6f09e8be38.png",
+    "static/media/3545757.jpg": "/Courses-Web-React/static/media/3545757.07c9b73c4f90446fc0a3.jpg",
+    "static/media/446775-PF9178-225.jpg": "/Courses-Web-React/static/media/446775-PF9178-225.c1dcb216faad0cd7d3f6.jpg",
+    "static/media/Python-good-for-machine-learning.jpg": "/Courses-Web-React/static/media/Python-good-for-machine-learning.ad075df641888d5d6ee5.jpg",
+    "static/media/vecteezy_clock-png-transparent_9589409.png": "/Courses-Web-React/static/media/vecteezy_clock-png-transparent_9589409.dd5f176fa4d012636009.png",
+    "static/media/pngegg (2).png": "/Courses-Web-React/static/media/pngegg (2).65d1195470de154304cb.png",
+    "static/media/Profile.jpg": "/Courses-Web-React/static/media/Profile.4779aeafa6e57abc3cd1.jpg",
+    "static/media/True-And-False-Transparent-PNG.png": "/Courses-Web-React/static/media/True-And-False-Transparent-PNG.ce25b2e02dae6b16391a.png",
+    "index.html": "/Courses-Web-React/index.html",
+    "main.80b70cb7.css.map": "/Courses-Web-React/static/css/main.80b70cb7.css.map",
+    "main.d224098e.js.map": "/Courses-Web-React/static/js/main.d224098e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b70cb7.css",
+    "static/js/main.d224098e.js"
+  ]
+}
